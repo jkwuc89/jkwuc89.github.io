@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 800px;
   padding: 0 10px;
   width: 100%;
 }
@@ -35,8 +35,8 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
+  line-height: 1.5;
+  margin: .25em 0 5px;
   padding: 0;
 
   @include mobile {
@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .masthead {
@@ -242,7 +242,7 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
   border-bottom: 1px solid $lightGray;
 }
 
