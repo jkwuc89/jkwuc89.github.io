@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presentations
-permalink: /Presentations/
+permalink: /presentations/
 ---
 
 Below are links to my conference presentations. Please feel free to download and use
