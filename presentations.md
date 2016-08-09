@@ -34,4 +34,11 @@ any of the material below.
  
 ---
 
+### [A Swift Introduction to Swift (pun intended)](https://github.com/jkwuc89/Presentations/blob/master/A%20Swift%20Introduction%20to%20Swift.pptx?raw=true)
+*Presented at [M3 Conference 2016](http://m3conf.com)*
+
+ - [Xcode Playgrounds with presentation code](https://github.com/jkwuc89/SwiftPlaygrounds/tree/master/Swift%20Introduction%20to%20Swift)
+
+---
+
 
