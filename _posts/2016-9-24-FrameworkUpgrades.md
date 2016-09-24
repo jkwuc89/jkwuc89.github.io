@@ -1,0 +1,12 @@
+---
+layout: post
+title: Is upgrading worth a rewrite?
+---
+
+I recently had a conversation with a good friend about the work we are currently doing. He told me that he is currently upgrading (i.e. rewriting) a web app to migrate from AngularJS 1 to AngularJS 2. When I asked my friend why this upgrade is being done, he stated that his client did not want to get stuck using an old version that is not supported. This immediately raised a red flag with me. This upgrade is not being done to solve a performance or functionality issue and it is not being done to introduce new functionality. It is being done solely to get to the latest version. And that spurred me to write this blog post.
+
+There are certainly good reasons to upgrade a framework within your project. The current version could have bugs or performance issues that the new version addresses. Or, the new version could offer new functionality that will offer significant benefits to your project. Simply wanting to be on the latest version is not reason enough to upgrade. Because regardless of the reason, there are costs associated with upgrading a framework. At a minimum, your project will need to be rebuilt and retested with the new framework version to ensure that the new version did not break anything. If the new version did introduce breakage during compile time or runtime, those bugs will need to be fixed, built and tested.
+
+What about the case where introducing a new framework version will require a rewrite of a significant portion of the code base? This brings us back to the case my friend mentioned and it an issue that all AngularJS 1 based projects will face when considering AngularJS 2. Serious questions need to be asked before embarking on such a rewrite, especially if your current project is deployed to production and is functioning / performing well. How long will the upgrade take? Will the app continue function and perform as well if not better after the upgrade is complete? Do the upgrade benefits justify the cost? Will support be available if the project continues to use the old version? Are there alternative frameworks to consider that offer comparable benefits without requiring a rewrite?
+
+When considering a framework upgrade that requires significant rework, the questions I raise above should be carefully researched and answered. Simply wanting to use the “latest and greatest” is not good enough. And it is acceptable to continue to use the old version.
