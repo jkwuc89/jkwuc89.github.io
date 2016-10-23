@@ -62,7 +62,7 @@ Debugging, testing, performance, lessons learned and gotcha's
 ---
 
 ### [A Swift Introduction to Swift (pun intended)](https://github.com/jkwuc89/Presentations/blob/master/A%20Swift%20Introduction%20to%20Swift.pptx?raw=true)
-*Presented at [M3 Conference 2016](http://m3conf.com)*
+*Presented at [M3 Conference 2016](http://m3conf.com) and [Columbus Code Camp 2016](http://columbuscodecamp.com)*
 
  - [Xcode Playgrounds with presentation code](https://github.com/jkwuc89/SwiftPlaygrounds/tree/master/Swift%20Introduction%20to%20Swift)
 
