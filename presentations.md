@@ -9,7 +9,7 @@ any of the material below.
 
 ---
 
-### [Effectively Documenting your Development Project](https://github.com/jkwuc89/Presentations/blob/master/Effectively%20Documenting%20your%20Development%20Project.pptx?raw=true)
+### [Effectively Documenting your Development Project](https://github.com/jkwuc89/Presentations/raw/master/Effectively%20Documenting%20your%20Development%20Project.pptx)
 *Presented at [CodePaLOUsa 2016](http://www.codepalousa.com), [Path to Agility 2016](http://www.thepathtoagility.com) and [DogFoodCon 2016](http://dogfoodcon.com)*
 
 In the most recent Stack Overflow developer survey, poor documentation is cited as the #2 challenge at work for developers. So how does this impact your Agile project? Imagine having your key contributors spending hours or even days each time new developers join your team to bring them up to speed on how to checkout, work with, build and test your project. Or imagine having these key contributors spending valuable time during every sprint answering the same questions about your project over and over again because there is no documentation. This happens today countless times because most development teams do not effectively document their development projects.
