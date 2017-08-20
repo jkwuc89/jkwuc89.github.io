@@ -11,7 +11,6 @@ I am very passionate about architecting and developing software solutions that d
 exceptional ROI to my clients. I have presented at CodeMash, Code PaLOUsa, Columbus Code Camp, M3,
 Path to Agility, StirTrek, and That Conference. When not at work, I enjoy dining, traveling and craft brewery
 exploration with his beautiful wife Karen and spending time when I can with my twin daughters.
-.
 
 ### My Resume
 
