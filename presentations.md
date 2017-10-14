@@ -9,11 +9,15 @@ any of the material below.
 
 ---
 
-### [Prevent Being Hit by a Bus, Save Time, Improve Efficiency by Documenting your Development Project](https://github.com/jkwuc89/Presentations/raw/master/Effectively%20Documenting%20your%20Development%20Project.pptx)
-*Presented at [CodePaLOUsa 2016](http://www.codepalousa.com), [Path to Agility 2016](http://www.thepathtoagility.com) and [DogFoodCon 2016](http://dogfoodcon.com)*
+### [Living on borrowed time; or Dude, where are the docs?](https://goo.gl/H4wvrg)
+*Presented at [CodePaLOUsa 2016](http://www.codepalousa.com), [Path to Agility 2016](http://www.thepathtoagility.com), [DogFoodCon 2016](http://dogfoodcon.com) and [Columbus Code Camp 2017](http://columbuscodecamp.com)*
 
 In a recent [Stack Overflow developer survey](https://goo.gl/yHfNDA), poor documentation is the #2 challenge at work. How does this impact your project?
 Without documentation, development teams will likely have a poor [bus factor](https://goo.gl/68Lis6). What does this mean? Critical project information gets siloed inside the minds of a select few key contributors. Those key contributors become indispensable. They spend valuable time responding to requests for that knowledge over and over again. And, when those contributors are unavailable, projects can grind to a halt. It's like they were hit by a bus. Come to this session and learn how documenting your development project will not only prevent "being hit by a bus" but will also save time and improve efficiency. This will help attendees sell the value of documentation to their managers and companies. Attendees will then learn practical real world advise on how to write and maintain the documentation with particular emphasis given to what to include. Example documentation will be shown and shared to help reinforce what is presented. The time to document is now and this session will help you get started.
+
+Alternate Abstract
+
+The project team is slogging through an invisible morass and its [bus factor](https://goo.gl/68Lis6) is approaching zero (critical information is lost even though no one left the team). If this seems familiar to you, you may be suffering from the effects of poor documentation whether you know it or not. You can prevent this scourge, but getting your team to invest in documentation may not be easy. Come to this session and find out how to sell the value of good docs and how to produce them. Avoid dead documentation just as you would dead code, by understanding what to include, what to leave out, and how to create living documentation that never goes stale. Practical techniques based on real world experience will be presented, with plenty of examples. Start raising your project's bus factor today.
 
 ---
 
