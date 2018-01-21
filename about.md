@@ -22,4 +22,4 @@ exploration with his beautiful wife Karen and spending time when I can with my t
 
 ### Contact Me
 
-[jkwuc89@gmail.com](mailto:keith.wedinger@icloud.com)
+[keith.wedinger@icloud.com](mailto:keith.wedinger@icloud.com)
