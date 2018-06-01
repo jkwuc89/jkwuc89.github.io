@@ -9,7 +9,7 @@ any of the material below.
 
 ---
 ### [Dogs and Cats, Living Together: Kotlin, Spring Boot and REST on Azure](https://goo.gl/DQ7cEU)
-*Presented at [Momentum 2018](http://momentumdevcon.com)*
+*Presented at [Momentum 2018](http://momentumdevcon.com), [Music City Tech 2018](http://www.musiccitytech.com)*
 
 Kotlin is a statically typed programming language by JetBrains that can enable more concise and understandable code than Java without sacrificing performance, safety or 100% Java compatibility. Spring Boot accelerates the creation of stand-alone Java/JVM based web apps with minimal coding. And Azure makes it straightforward to deploy and host Java/JVM based web apps. Come to this session and learn how to use all of this goodness together to develop and deploy REST APIs. Attendees will learn how to use Spring Initializr to create the project, how to use Kotlin and Spring Boot to develop a web app with concise, boilerplate free code that exposes REST APIs and how to deploy and host this web app in Azure. This session will wrap things up by using a HTML/JavaScript client to test the REST APIs. The GitHub repository for this session will be made available beforehand so feel free to bring along a laptop to walk through the sample code together.
 
