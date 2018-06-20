@@ -8,6 +8,14 @@ Below are links to my conference presentations. Please feel free to download and
 any of the material below.
 
 ---
+### [AWS Java Lambda Functions with Kotlin](https://goo.gl/EHfTEC)
+*Presented at [Beer City Code 2018](http://beercitycode.com)*
+
+Kotlin is a statically typed programming language that enables concise and understandable code without sacrificing performance, safety or 100% Java compatibility. That last bit is key. Developing an AWS Java Lambda function using Kotlin is possible because Kotlin is 100% compatible with Java. In this talk, attendees will learn how to implement the necessary AWS interfaces and classes to accept an incoming JSON request, return a JSON response and implement logging that integrates with AWS CloudWatch. Attendees will also learn how to package and deploy the lambda function to AWS. Comparisons will be made to Java to demonstrate how Kotlin makes developing an AWS Lambda function simpler and more concise. Attendees will leave this session with the knowledge necessary to develop their own AWS Lambda functions using Kotlin.
+
+[GitHub Repo](https://github.com/jkwuc89/kotlinawslambda)
+
+---
 ### [Dogs and Cats, Living Together: Kotlin, Spring Boot and REST on Azure](https://goo.gl/DQ7cEU)
 *Presented at [Momentum 2018](http://momentumdevcon.com), [Music City Tech 2018](http://www.musiccitytech.com)*
 
