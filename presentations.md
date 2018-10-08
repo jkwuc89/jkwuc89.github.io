@@ -9,7 +9,7 @@ any of the material below.
 
 ---
 ### [AWS Java Lambda Functions with Kotlin](https://goo.gl/EHfTEC)
-*Presented at [Beer City Code 2018](http://beercitycode.com)*
+*Presented at [Beer City Code 2018](http://beercitycode.com)*, [Ohio DevFest 2018](https://ohiodevfest.com)
 
 Kotlin is a statically typed programming language that enables concise and understandable code without sacrificing performance, safety or 100% Java compatibility. That last bit is key. Developing an AWS Java Lambda function using Kotlin is possible because Kotlin is 100% compatible with Java. In this talk, attendees will learn how to implement the necessary AWS interfaces and classes to accept an incoming JSON request, return a JSON response and implement logging that integrates with AWS CloudWatch. Attendees will also learn how to package and deploy the lambda function to AWS. Comparisons will be made to Java to demonstrate how Kotlin makes developing an AWS Lambda function simpler and more concise. Attendees will leave this session with the knowledge necessary to develop their own AWS Lambda functions using Kotlin.
 
@@ -17,7 +17,7 @@ Kotlin is a statically typed programming language that enables concise and under
 
 ---
 ### [Dogs and Cats, Living Together: Kotlin, Spring Boot and REST on Azure](https://goo.gl/DQ7cEU)
-*Presented at [Momentum 2018](http://momentumdevcon.com), [Music City Tech 2018](http://www.musiccitytech.com)*
+*Presented at [Momentum 2018](http://momentumdevcon.com), [Music City Tech 2018](http://www.musiccitytech.com), [DogFoodCon 2018](https://dogfoodcon.com)*
 
 Kotlin is a statically typed programming language by JetBrains that can enable more concise and understandable code than Java without sacrificing performance, safety or 100% Java compatibility. Spring Boot accelerates the creation of stand-alone Java/JVM based web apps with minimal coding. And Azure makes it straightforward to deploy and host Java/JVM based web apps. Come to this session and learn how to use all of this goodness together to develop and deploy REST APIs. Attendees will learn how to use Spring Initializr to create the project, how to use Kotlin and Spring Boot to develop a web app with concise, boilerplate free code that exposes REST APIs and how to deploy and host this web app in Azure. This session will wrap things up by using a HTML/JavaScript client to test the REST APIs. The GitHub repository for this session will be made available beforehand so feel free to bring along a laptop to walk through the sample code together.
 
