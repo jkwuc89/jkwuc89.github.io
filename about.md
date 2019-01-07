@@ -19,4 +19,8 @@ beautiful wife Karen and spending time when I can with my twin daughters who now
 
 ### Contact Me
 
-[keith.wedinger@icloud.com](mailto:keith.wedinger@icloud.com)
+ - [keith.wedinger@icloud.com](mailto:keith.wedinger@icloud.com)
+ - Twitter: @jkwuc89
+ - [GitHub](https://github.com/jkwuc89)
+ - [LinkedIn](https://www.linkedin.com/in/kwedinger)
+ - Untapped: jkwuc89
